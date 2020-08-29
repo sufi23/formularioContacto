@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">formularioContacto</string>
+    <string name="nombreCompleto">Nombre completo</string>
+    <string name="numeroTelefono">Teléfono:</string>
+    <string name="email">Email:</string>
+    <string name="descripcionContacto">Descripción del contacto:</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="fechaNacimiento">Fecha de nacimiento:</string>
+    <string name="confirmarDatos">Confirmar datos</string>
+    <string name="nombreYApellidos">Nombre y apellidos</string>
+    <string name="fechaIndefinida">00/00/0000</string>
+    <string name="telefonoIndefinido">000000000</string>
+    <string name="emailIndefinido">indefinido@hotmail.com</string>
+    <string name="descripcionUsuario">Aquí irá la descripción del usuario en varias líneas.</string>
+    <string name="editarDatos">Editar datos</string>
+</resources>
